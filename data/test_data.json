@@ -1,0 +1,29 @@
+[{"function": "TIME_SERIES_DAILY",
+                            "symbol": "IBM",
+                            "outputsize": "Compact",
+                            "datatype": "json",
+                            "apikey": "30MLT9MA5FU4X0QT"},
+
+  {"function": "TIME_SERIES_DAILY",
+                            "symbol": "TSCO.LON",
+                            "outputsize": "Compact",
+                            "datatype": "json",
+                            "apikey": "30MLT9MA5FU4X0QT"},
+
+  {"function": "TIME_SERIES_DAILY",
+                            "symbol": "SHOP.TRT",
+                            "outputsize": "Compact",
+                            "datatype": "json",
+                            "apikey": "30MLT9MA5FU4X0QT"},
+
+  {"function": "TIME_SERIES_DAILY",
+                            "symbol": "GPV.TRV",
+                            "outputsize": "Compact",
+                            "datatype": "json",
+                            "apikey": "30MLT9MA5FU4X0QT"},
+
+  {"function": "TIME_SERIES_DAILY",
+                            "symbol": "DAI.DEX",
+                            "outputsize": "Compact",
+                            "datatype": "json",
+                            "apikey": "30MLT9MA5FU4X0QT"}]

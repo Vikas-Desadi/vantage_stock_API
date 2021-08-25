@@ -1,0 +1,11 @@
+[{"function": "",
+                            "symbol": "IBM",
+                            "outputsize": "Compact",
+                            "datatype": "json",
+                            "apikey": "30MLT9MA5FU4X0QT"},
+
+  {"function": "TIME_SERIES_DAILY",
+                            "symbol": "",
+                            "outputsize": "Compact",
+                            "datatype": "json",
+                            "apikey": "30MLT9MA5FU4X0QT"}]
